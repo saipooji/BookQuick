@@ -1,0 +1,14 @@
+{
+    "services": [
+        { "id": 1, "name": "Yoga Class" },
+        { "id": 2, "name": "Consultation" },
+        { "id": 3, "name": "Tutoring Session" },
+        { "id": 4, "name": "Massage Therapy" },
+        { "id": 5, "name": "Gym" },
+        { "id": 6, "name": "Dental Checkup" },
+        { "id": 7, "name": "Haircut" },
+        { "id": 8, "name": "Spa" }
+    ],
+    "appointments": []	
+}
+ 
