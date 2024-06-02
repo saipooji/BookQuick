@@ -6,7 +6,6 @@ Create a basic web application to schedule appointments for services such as hai
 ## Features
 - Service Listings: Display a list of available services and providers.
 - Appointment Booking: Allow users to book appointments by selecting a service, date, and time.
-- Confirmation and Reminder: Send confirmation and reminder notifications to users.
 
 ## Tech Stack
 - HTML
