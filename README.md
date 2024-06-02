@@ -1,7 +1,7 @@
 # BookQuick - Appointment Scheduler
 
 ## Objective
-Create a basic web application to schedule appointments for services such as haircuts, consultations, or tutoring sessions.
+Create a basic web application to schedule appointments for services such as haircuts, gym, spa, dental check ups, yoga class, tutoring sessions, etc.
 
 ## Features
 - Service Listings: Display a list of available services and providers.
